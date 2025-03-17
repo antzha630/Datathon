@@ -1,4 +1,5 @@
 MLDS Datahack 2025 Project
+
 Overview
 This repository contains the code, data, and results for our participation in the MLDS Datahack 2025, where we developed machine learning models to forecast wind speeds and optimize insurance pricing strategies for the simulated city GANopolis.
 
